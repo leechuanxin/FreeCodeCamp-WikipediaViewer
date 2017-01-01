@@ -5,3 +5,5 @@ The ripple-click Material Design effect is modified and recreated using this gui
 The animated search box is modified using this guide: http://icanbecreative.com/article/css3-animated-search-box/
 
 Background is Sweet Morning by uiGradients: http://uigradients.com/#SweetMorning
+
+The page can be accessed on http://leechuanxin.github.io/FreeCodeCamp-WikipediaViewer/ or http://codepen.io/chuansformer/full/jyNaGN/
